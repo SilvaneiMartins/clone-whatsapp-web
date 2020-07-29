@@ -1,5 +1,5 @@
 <h1 align="center">
-    Clone WhsatApp
+    Clone WhsatApp Web
 </h1>
 
 <h4 align="center">
