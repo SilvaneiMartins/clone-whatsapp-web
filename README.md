@@ -54,12 +54,12 @@ Este projeto está sob a licença MIT. Veja o [LICENSE](https://github.com/Silva
 ---
 
 Desenvolvedor: Silvanei Martins<br>
-Linkedin: [Entrar em contato!](https://www.linkedin.com/in/silvanei-martins-a5412436/)
-Contato: WhastApp Comercial: +55 (69) 9.9970-8265<br>
+Linkedin: [Entrar em contato!](https://www.linkedin.com/in/silvanei-martins-a5412436/)<br>
+Contato: WhastApp Comercial: +55 (69) 9.9970-8265 <br>
 Email: silvaneimartins_rcc@hotmail.com / silvaneimartins34@gmail.com<br>
 
 Empresa: <br>
-Sam Security Develop.
+Sam Security Develop.<br>
 
 Observação: Gostaria de pedir para quem usar, clonar ou realizar qualquer outro tipo de experimento com o código,
 por favor, mantenha a assinatura do autor no código.
