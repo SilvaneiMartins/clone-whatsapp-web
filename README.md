@@ -1,5 +1,5 @@
 <h1 align="center">
-    CClone WhsatApp
+    Clone WhsatApp
 </h1>
 
 <h4 align="center">
