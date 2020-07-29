@@ -1,9 +1,9 @@
 <h1 align="center">
-    Clone Twiter
+    CClone WhsatApp
 </h1>
 
 <h4 align="center">
-  Layout responsivo do Clone Twiter usando Styled-Components(React)
+  Aplicativo Clone WhsatApp Web usando JavaScrypt
 </h4>
 
 <p align="center">
@@ -13,11 +13,11 @@
 </p>
 
 <h4 align="left">
-  Demotração do layout desenvolvido no estudo.
+  Demotração do aplicativo WhsatApp Web desenvolvido no estudo JavaScrypt.
 </h4>
 
-<a href="https://imgur.com/1j5Yvye"><img src="https://i.imgur.com/1j5Yvye.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/RKGf6Nm"><img src="https://i.imgur.com/RKGf6Nm.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/lplvo2Y"><img src="https://i.imgur.com/lplvo2Y.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/EswkGOT"><img src="https://i.imgur.com/EswkGOT.png" title="source: imgur.com" /></a>
 
 ## :rocket: Tecnologias
 
@@ -27,7 +27,7 @@ Este projeto foi desenvolvido em meus estudos, com o propósito de aprender e au
 -  [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/)
 -  [ReactJS](https://reactjs.org/)
 -  [styled-components](https://www.styled-components.com/)
--  [Typescript](https://www.typescriptlang.org/)
+-  [JavaScript](https://www.javascript.com/)
 
 ## :information_source: Como usar
 
@@ -35,20 +35,21 @@ Para clonar e executar esta aplicação, você precisa do [Git](https://git-scm.
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/SilvaneiMartins/clone-twiter
+$ git clone https://github.com/SilvaneiMartins/clone-whatsapp-web/
 
 # Go into the repository
-$ cd clone-twiter
+$ cd clone-whatsapp-web
 
 # Install dependencies
 $ yarn install
 
 # Run the app
 $ yarn start
+$ http://localhost:3000 
 ```
 
 ## :memo: License
-Este projeto está sob a licença MIT. Veja o [LICENSE](https://github.com/SilvaneiMartins/clone-twiter/blob/master/LICENSE) for more information.
+Este projeto está sob a licença MIT. Veja o [LICENSE](https://github.com/SilvaneiMartins/clone-whatsapp-web/blob/master/LICENSE) for more information.
 
 ---
 
